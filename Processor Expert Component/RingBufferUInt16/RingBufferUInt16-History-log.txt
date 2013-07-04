@@ -1,0 +1,3 @@
+
+***** Mon Jun 24 21:37:13 SGT 2013
+Deleted Property: Property0. Additional information: Delete Property
